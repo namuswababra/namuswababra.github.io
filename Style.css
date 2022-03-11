@@ -1,0 +1,9 @@
+body {
+ background-color: violet;
+ color: green;
+ font-family: cambria;
+ text-align: center;
+}
+img {
+ border-radius: 60%;
+}
